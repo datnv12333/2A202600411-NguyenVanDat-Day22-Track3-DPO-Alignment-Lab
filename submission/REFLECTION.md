@@ -3,8 +3,8 @@
 **Student:** Nguyễn Văn Đạt (2A202600411)  
 **Date:** 2026  
 **Compute tier:** T4 (Colab free, Qwen2.5-3B-bnb-4bit)  
-**GitHub repo:** [Điền URL public repo của bạn]  
-**Hugging Face Hub (Option B):** [Điền URL Hugging Face Model Card của bạn]
+**GitHub repo:** https://github.com/datnv12333/2A202600411-NguyenVanDat-Day22-Track3-DPO-Alignment-Lab
+**Hugging Face Hub (Option B):** https://huggingface.co/datnguyennn/day22-dpo-alignment
 
 ---
 
